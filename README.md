@@ -1,3 +1,5 @@
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 

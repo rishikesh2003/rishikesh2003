@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh2003" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coder_rishi" target="blank"><img src="https://img.shields.io/twitter/follow/coder_rishi?logo=twitter&style=for-the-badge" alt="coder_rishi" /></a> </p>
 <br />
 <img src="https://github.com/rishikesh2003/rishikesh2003/blob/main/github%20header.png" />
 <br />

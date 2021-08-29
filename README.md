@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh2003" /> </p>
 
 <br />
-<img src="https://github.com/rishikesh2003/rishikesh2003/blob/main/github%20header.png" />
+<img src="https://github.com/rishikesh2003/rishikesh2003/blob/main/github%20header.jpg" />
 <br />
 
 - 🌱 I’m currently learning **ML, Tenserflow and Neural Nets**

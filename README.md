@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
-<h3 align="center">Software Developer | Learner</h3>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh2003" /> </p>
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML, Tenserflow and Neural Nets**
 
-- 👨‍💻 All of my projects are available at [https://findrishi.tech](https://findrishi.tech)
+- 👨‍💻 All of my projects are available at [https://findrishi.com](https://findrishi.com)
 
 - 💬 Ask me about **Javascript, Typescript, Python, React, Flutter.**
 

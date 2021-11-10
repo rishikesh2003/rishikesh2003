@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Tenserflow and WebSockets**
 
-- 👨‍💻 All of my projects are available at [https://findrishi.com](https://findrishi.com)
-
 - 💬 Ask me about **react, typescript, javascript, python, nodejs**
 
 - 📫 How to reach me **s.rishikesh@outlook.com**

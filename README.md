@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, typescript, javascript, python, nodejs**
 
-- 📫 How to reach me **s.rishikesh@outlook.com**
+- 📫 How to reach me **hello@findrishi.com**
 
 - ⚡ Fun fact **I can't think of any fun fact.**
 

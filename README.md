@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/coder_rishi" target="blank"><img src="https://img.shields.io/twitter/follow/coder_rishi?logo=twitter&style=for-the-badge" alt="coder_rishi" /></a> </p>
 <br />
-<img src="https://github.com/rishikesh2003/rishikesh2003/blob/main/github%20header.jpg" />
-<br />
 
 - 🌱 I’m currently learning **Machine Learning, Tenserflow and WebSockets**
 

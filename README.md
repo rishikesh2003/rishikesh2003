@@ -22,5 +22,5 @@
 
 ---
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="256px"/> 
+<img src="https://random-memer.herokuapp.com/" width="400px"/> 
 

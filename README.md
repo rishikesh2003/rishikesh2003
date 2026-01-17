@@ -3,8 +3,6 @@
 I am a full-stack engineer who loves type safety, fast backends, and making AI actually useful. I build systems that scale well and do my best to keep the bugs to a minimum.
 
 ✉️ rkesh2003@gmail.com
-
-🔗 [GitHub](https://github.com/rishikesh2003)
 🔗 [LinkedIn](https://www.linkedin.com/in/rishikeshs/)
 
 ---

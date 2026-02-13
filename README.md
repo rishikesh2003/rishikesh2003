@@ -2,8 +2,11 @@
 
 I am a full-stack engineer who loves type safety, fast backends, and making AI actually useful. I build systems that scale well and do my best to keep the bugs to a minimum.
 
-✉️ rkesh2003@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/rishikeshs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikeshs/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rkesh2003@gmail.com)
+
+![Visitors](https://komarev.com/ghpvc/?username=rishikesh2003&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
 
@@ -61,6 +64,7 @@ I am a full-stack engineer who loves type safety, fast backends, and making AI a
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat&logo=googlegemini&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra.ai-black?style=flat&logo=openai&logoColor=white)
 
 ---
 

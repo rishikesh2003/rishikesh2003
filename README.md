@@ -6,7 +6,6 @@ I am a full-stack engineer who loves type safety, fast backends, and making AI a
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rkesh2003@gmail.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=rishikesh2003&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
 

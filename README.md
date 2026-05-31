@@ -1,6 +1,6 @@
 # Rishikesh S
 
-I am a full-stack engineer who loves type safety, fast backends, and making AI actually useful. I build systems that scale well and do my best to keep the bugs to a minimum.
+I am a full-stack engineer focused on TypeScript, product systems, fast backends, and practical AI workflows. I like building reliable software, clean developer workflows, and products that survive real users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikeshs/)
 
